@@ -1,0 +1,22 @@
+{
+  "name": "The Chessmen of Mars",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/the-chessmen-of-mars/master/assets",
+  "book_id": 1067,
+  "book_url": "https://bubblin.io/book/the-chessmen-of-mars-by-edgar-rice-burroughs"
+}
